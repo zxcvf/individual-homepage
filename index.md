@@ -8,9 +8,11 @@ Email: zxcvf6@outlook.com
 
 
 
+
 ### 自我介绍
 
 曾在成熟的互联网公司中担任过后端工程师，也在初创公司负责带领团队逐步扩张充当多面手。这帮助我锻炼出了基于产品的系统性思维大局观、思考分析与解决问题能力和还不错的沟通表达能力。
+
 
 
 
@@ -34,15 +36,18 @@ Email: zxcvf6@outlook.com
 
 
 
+
 ### 项目经历
 
 **长沙大可科技有限公司                                                                                                    2019.06 - 至今**                                                                                                      
+
 
 **dacs** [https://www.dacs-edu.com](https://www.dacs-edu.com/login)                                                                          后端开发工程师 项目负责人
 
 技术栈 Python-Django + Redis + rabbitMQ + 阿里云(OSS + CDN + SLB + RDS-Mysql) + grpc
 
 ​    提供给培训机构以及旗下学校使用的后台管理系统。功能大致为为机构和校区提供包含合同签约、统帐、营销活动、排课等功能。在其中负责数据库水平、垂直拆分、工具类编写、代码优化、框架搭建、权限系统优化等功能，以及整体项目质量、研发进度把控。
+
 
 
 
@@ -56,11 +61,14 @@ Email: zxcvf6@outlook.com
 
 
 
+
 **长沙蜜獾信息科技有限公司                                                                                               2017.07 - 2019.04**                                                
+
 
 **HPA数据组** [https://www.homepartners.com/](https://www.homepartners.com/)                                                              python开发工程师
 
 ​    homepartners项目是由大数据以及算法为美国受众评估、购买不对外出租的房子后出租给受众，并为其提供装修、维修等服务的互联网传统行业融合的项目。其中数据中心基于AWS搭建，我在其中主要是负责1、通过Python/Node.js/java在aws lambda/gateway结合sqlserver/mongodb输出数据分析师所需要的算法。2、二次开发airbnb的开源项目superset，更新数据展示图表/修改权限粒度增加SSO等功能 3、独立负责[www.propertyware.com](https://www.propertyware.com/)房产公司的爬虫项目。
+
 
 
 
@@ -70,46 +78,9 @@ Email: zxcvf6@outlook.com
 
 
 
+
 ### 社交主页
 
 github: [https://github.com/zxcvf](https://github.com/zxcvf)
 
-在线简历: https://zxcvf.github.io/individual-homepage
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zxcvf/individual-homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zxcvf/individual-homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
