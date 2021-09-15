@@ -67,6 +67,8 @@ Email: zxcvf6@outlook.com
 
 **HPA数据组** [https://www.homepartners.com/](https://www.homepartners.com/)                                                              python开发工程师
 
+技术栈 Python + Node.js + AWS(S3 + Lambda + API Gateway + SNS(发布/订阅) + SQS(消息队列)) 
+
 ​    homepartners项目是由大数据以及算法为美国受众评估、购买不对外出租的房子后出租给受众，并为其提供装修、维修等服务的互联网传统行业融合的项目。其中数据中心基于AWS搭建，我在其中主要是负责1、通过Python/Node.js/java在aws lambda/gateway结合sqlserver/mongodb输出数据分析师所需要的算法。2、二次开发airbnb的开源项目superset，更新数据展示图表/修改权限粒度增加SSO等功能 3、独立负责[www.propertyware.com](https://www.propertyware.com/)房产公司的爬虫项目。
 
 
