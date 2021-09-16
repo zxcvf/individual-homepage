@@ -20,6 +20,8 @@ Email: zxcvf6@outlook.com
 
 4年云平台使用经验，熟悉web全栈开发技术，有大型Web项目开发经验，熟悉Linux/Docker/k8s环境
 
+有分布式、分库分表、高可用设计经验
+
 熟练使用Python / Golang， 了解前端开发
 
 拥有较强的学习能力、以及适应能力， 热衷倒腾代码、接触新兴技术。
