@@ -72,4 +72,4 @@ Email: zxcvf6@outlook.com
 
 github: [https://github.com/zxcvf](https://github.com/zxcvf)
 
-在线简历: [https://github.com/zxcvf/individual-homepage](https://github.com/zxcvf/individual-homepage)
+在线简历: [https://zxcvf.github.io/individual-homepage](https://zxcvf.github.io/individual-homepage)
