@@ -16,29 +16,35 @@ Email: zxcvf6@outlook.com
 
 ### 技术能力
 
-4年云平台使用经验，熟悉web全栈开发技术，有大型Web项目开发、部署经验，熟悉Linux/Docker/k8s环境
+5年半开发经验， 4年云平台使用经验，熟悉web全栈开发技术，有大型Web项目开发、部署经验，熟悉Linux/Docker/k8s环境
 
 有分布式、分库分表、高可用设计经验
 
-熟练使用Python / Golang， 了解前端开发
+熟练使用 Golang / Python， 了解前端等其他开发赛道 不拘泥于语言，对于不同语言/技术有学习意愿
 
 拥有较强的学习能力、以及适应能力， 热衷倒腾代码、接触新兴技术。
 
 有阅读英文文档能力，以及阅读官方文档习惯
 
-开发语言：Python Golang Node.js
+开发语言：Golang Python
 
-数据库：Mysql Redis Mongo
+数据库：Mysql Clickhouse Redis Mongo
 
-其他：AWS 阿里云 Docker k8s Linux RabbitMQ RPC
+其他：AWS 阿里云 Docker k8s Linux RPC
 
 
 
 ### 项目经历
 
-**长沙大可科技有限公司 2019.06 - 至今**                                                                                                      
+**北京宝兰德软件股份有限公司 2021.09 - 至今** 
+**可观测-技术设施采集代理**                                                                                                      后端开发工程师 子项负责人
+技术栈 golang + thrift + clickhouse
+  基于datadog二次开发， 魔改了整体数据流以及运行流程，并横向扩展了50余种协议/中间件等可观测采集。
+  Prometheus + exporter + grafana
 
-**dacs** [https://www.dacs-edu.com](https://www.dacs-edu.com/login)                                                              后端开发工程师 项目负责人
+**长沙大可科技有限公司 2019.06 - 2021.09**                                                                                                      
+
+**dacs** [https://www.dacs-edu.com](https://www.dacs-edu.com/login)                                                              后端开发工程师
 
 技术栈 python + Redis + rabbitMQ + 阿里云(OSS + CDN + SLB + RDS-Mysql) + grpc + golang
 
@@ -48,7 +54,7 @@ Email: zxcvf6@outlook.com
 
 技术栈 Python-Django + Redis + rabbitMQ + 阿里云(OSS + CDN + SLB + RDS-Mysql) + grpc
 
-​    以scratch为核心搭建的web应用，从scratch代码编辑器为起点扩展出一个少儿编程教学网站，提供scratch编程环境以及作品库、素材库、教学视频、各类编程/购买活动等功能。后续并支持开发win/mac/ios/android端。在项目中我负责框架搭建、工具类编写、重要需求迭代以及整体项目质量、研发进度把控。
+​    以scratch为核心搭建的web应用，从scratch代码编辑器为起点扩展出一个少儿编程教学网站，提供scratch编程环境以及作品库、素材库、教学视频、各类编程/购买活动等功能。后续并支持开发win/mac/ios/android端。在项目中我负责项目主体搭建、工具类编写、重要需求迭代以及整体项目质量、研发进度把控。
 ​    
 另外主动使用django+react给公司开发了简洁的OA+点餐系统 [http://i.duckdake.com](http://i.duckdake.com/) 减轻了HR每日重复的报餐统计以及文件归类的重复工作痛点
 
