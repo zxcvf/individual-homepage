@@ -16,7 +16,7 @@ Email: zxcvf6@outlook.com
 
 ### 技术能力
 
-5年半开发经验， 4年云平台使用经验，熟悉web全栈开发技术，有大型Web项目开发、部署经验，熟悉Linux/Docker/k8s环境
+5年半开发经验， 4年云平台使用经验，熟悉web全栈开发技术，有大型Web项目开发、部署经验，熟练Linux/Docker/k8s环境
 
 有分布式、分库分表、高可用设计经验
 
@@ -37,6 +37,7 @@ Email: zxcvf6@outlook.com
 ### 项目经历
 
 **北京宝兰德软件股份有限公司 2021.09 - 至今** 
+
 **可观测-技术设施采集代理**                                                                                                      后端开发工程师 子项负责人
 技术栈 golang + thrift + clickhouse
   基于datadog二次开发， 魔改了整体数据流以及运行流程，并横向扩展了50余种协议/中间件等可观测采集。
@@ -64,7 +65,7 @@ Email: zxcvf6@outlook.com
 
 **HPA数据组** [https://www.homepartners.com/](https://www.homepartners.com/)                                                   后端开发工程师
 
-技术栈 Python + Node.js + JAVA + AWS(S3 + Lambda + API Gateway + SNS + SQS(消息队列))
+技术栈 Python + Node.js + JAVA + AWS(S3 + Lambda + API Gateway + SNS + SQS)
 
 ​    homepartners项目是由大数据以及算法为美国受众评估、购买不对外出租的房子后出租给受众，并为其提供装修、维修等服务的互联网传统行业融合的项目。其中数据中心基于AWS搭建，我在其中主要是负责1、通过Python/Node.js/java在aws lambda/gateway结合sqlserver/mongodb输出数据分析师所需要的算法。2、二次开发airbnb的开源项目superset，更新数据展示图表/修改权限粒度增加SSO等功能 3、独立负责[www.propertyware.com](https://www.propertyware.com/)房产公司的爬虫项目。
 
@@ -73,6 +74,11 @@ Email: zxcvf6@outlook.com
 ### 教育背景
 
 2014.9-2018.6 湖南农业大学    计算机科学与技术    本科
+
+### 其他
+
+日语学习中，有明确润日计划
+英语4级
 
 ### 社交主页
 
