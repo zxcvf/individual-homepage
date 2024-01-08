@@ -38,23 +38,27 @@ Email: zxcvf6@outlook.com
 
 **北京宝兰德软件股份有限公司 2021.09 - 至今** 
 
-**可观测-技术设施采集代理**                                                                                                      后端开发工程师 子项负责人
+**可观测-技术设施采集代理**                                                                                                      后端开发工程师 代理端负责人
 
-技术栈 golang + thrift + gin + clickhouse + grpc + java
+技术栈 golang + thrift + gin + clickhouse + grpc + java(jmx)
   
-  基于python datadog二次开发的采集代理， 主要由configManager(采集配置热插拔)/collector(指标抓取)/aggregator(指标聚合、计算)/fowarder(指标上报)组成。由于性能问题进入公司后将其整体重构为golang版本，通过thrift+tcp或者http协议完成服务端动态化配置，并横向扩展了本地以及远程50余种协议/中间件等指标采集能力，从仅支持50采集对象扩充至单机支持每分钟2000+采集对象，增加了诸多接口透明化各对象的采集配置、采集状态、采集结果等。
+  基于python datadog二次开发的采集代理， 主要由configManager(采集配置热插拔)/collector(指标抓取)/aggregator(指标聚合、计算)/fowarder(指标上报)组成。由于性能问题，进入公司后负责将其整体重构为golang版本，从仅支持50采集对象扩充至单机支持每分钟采集2000+对象，通过thrift+tcp或者http协议完成服务端动态化配置，并横向扩展了本地以及远程50余种协议/中间件/工具(filebeat)等指标采集能力，增加了诸多接口透明化各对象的采集配置、采集状态、采集结果等。 同时负责了多个客户的可观测产品K8S环境维护。
   
-  Prometheus + exporter + grafana
+  其次在公司的Prometheus + exporter + grafana的容器采集生态中，编写了公司多个自研组件exporter。
 
 **长沙大可科技有限公司 2019.06 - 2021.09**                                                                                                      
 
-**dacs** [https://www.dacs-edu.com](https://www.dacs-edu.com/login)                                                              后端开发工程师
+**dacs** [https://www.dacs-edu.com](https://www.dacs-edu.com/login)                                                              后端开发工程师  项目负责人
 
 技术栈 python + Redis + rabbitMQ + 阿里云(OSS + CDN + SLB + RDS-Mysql) + grpc + golang
 
-​    提供给培训学校以及机构使用的后台系统。功能大致为为机构和校区提供包含合同签约、统帐、营销活动、排课等功能。在其中负责数据库水平、垂直拆分、工具类编写、代码优化、框架搭建、权限系统优化等功能，以及整体项目质量、研发进度把控。
+    智慧校园系统。亮点功能为按照课表控制摄像头、调用AI算法进行学生状态追踪，教师能力评分。主体功能为 
+    
+    1. 前台系统通过微信公众号跳转H5，可查看历次课堂亮点照片、视频及评价， 提供给家长正反馈
 
-**obbycode** [https://online.obbycode.com](https://online.obbycode.com/)                                                  后端开发工程师 项目负责人
+    2. 后台系统提供给培训学校以及机构使用的后台系统。功能大致为为机构和校区提供包含合同签约、统帐、营销活动、排课、教师管理等功能。在其中负责数据库水平、垂直拆分、工具类编写、代码优化、框架搭建、权限系统优化等功能，以及整体项目质量、研发进度把控。
+
+**obbycode** [https://online.obbycode.com](https://online.obbycode.com/)                                                         后端开发工程师
 
 技术栈 Python-Django + Redis + rabbitMQ + 阿里云(OSS + CDN + SLB + RDS-Mysql) + grpc
 
@@ -66,7 +70,7 @@ Email: zxcvf6@outlook.com
 
 **长沙蜜獾信息科技有限公司 2017.07 - 2019.04**                                                
 
-**HPA数据组** [https://www.homepartners.com/](https://www.homepartners.com/)                                                   后端开发工程师
+**HPA数据组** [https://www.homepartners.com/](https://www.homepartners.com/)                                                     后端开发工程师
 
 技术栈 Python + Node.js + JAVA + AWS(S3 + Lambda + API Gateway + SNS + SQS)
 
