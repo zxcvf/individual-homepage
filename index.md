@@ -42,7 +42,7 @@ Email: zxcvf6@outlook.com
 
 技术栈 golang + thrift + gin + clickhouse + grpc + java(jmx)
   
-  基于python datadog二次开发的采集代理， 主要由configManager(采集配置热插拔)/collector(指标抓取)/aggregator(指标聚合、计算)/fowarder(指标上报)组成。由于性能问题，进入公司后负责将其整体重构为golang版本，从仅支持50采集对象扩充至单机支持每分钟采集2000+对象，通过thrift+tcp或者http协议完成服务端动态化配置、指标上报，并横向扩展了本地以及远程50余种协议/中间件/工具(filebeat)等指标采集能力，增加了诸多接口透明化各对象的采集配置、采集状态、采集结果等。 同时负责了多个客户的可观测产品K8S环境维护。
+  基于python datadog二次开发的采集代理， 主要由configManager(采集配置热插拔)/collector(指标抓取)/aggregator(指标聚合、计算)/fowarder(指标上报)组成。由于性能问题，进入公司后负责将其整体重构为golang版本，从仅支持200采集对象扩充至单机支持每分钟采集2000+对象，通过thrift+tcp或者http协议完成服务端动态化配置、指标上报，并横向扩展了本地以及远程50余种协议/中间件/工具(filebeat)等指标采集能力，增加了诸多接口透明化各对象的采集配置、采集状态、采集结果等。 同时负责了多个客户的可观测产品K8S环境维护。
   
   其次在公司的Prometheus + exporter + grafana的容器采集生态中，编写了公司多个自研组件exporter, 以及对接公司自研clickhouse的prometheus remote storage adapter。
 
