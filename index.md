@@ -39,8 +39,11 @@ Email: zxcvf6@outlook.com
 **北京宝兰德软件股份有限公司 2021.09 - 至今** 
 
 **可观测-技术设施采集代理**                                                                                                      后端开发工程师 子项负责人
-技术栈 golang + thrift + clickhouse
-  基于datadog二次开发， 魔改了整体数据流以及运行流程，并横向扩展了50余种协议/中间件等可观测采集。
+
+技术栈 golang + thrift + gin + clickhouse + grpc + java
+  
+  基于python datadog二次开发的采集代理， 主要由configManager(采集配置热插拔)/collector(指标抓取)/aggregator(指标聚合、计算)/fowarder(指标上报)组成。由于性能问题进入公司后将其整体重构为golang版本，通过thrift+tcp或者http协议完成服务端动态化配置，并横向扩展了本地以及远程50余种协议/中间件等指标采集能力，从仅支持50采集对象扩充至单机支持每分钟2000+采集对象，增加了诸多接口透明化各对象的采集配置、采集状态、采集结果等。
+  
   Prometheus + exporter + grafana
 
 **长沙大可科技有限公司 2019.06 - 2021.09**                                                                                                      
@@ -77,7 +80,7 @@ Email: zxcvf6@outlook.com
 
 ### 其他
 
-日语学习中，有明确润日计划
+日语学习中，有明确润日企划
 英语4级
 
 ### 社交主页
