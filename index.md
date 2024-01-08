@@ -36,7 +36,7 @@ Email: zxcvf6@outlook.com
 
 ### 项目经历
 
-**北京宝兰德软件股份有限公司 2021.09 - 至今** 
+**北京宝兰德软件股份有限公司 2021.09 - 至今**   https://www.bessystem.com/
 
 **可观测-技术设施采集代理**                                                                                                      后端开发工程师 代理端负责人
 
@@ -48,7 +48,8 @@ Email: zxcvf6@outlook.com
 
 **长沙大可科技有限公司 2019.06 - 2021.09**                                                                                                      
 
-**dacs** [https://www.dacs-edu.com](https://www.dacs-edu.com/login)                                                              后端开发工程师  项目负责人
+**dacs**                                                                                                                        后端开发工程师  项目负责人
+<!-- [https://www.dacs-edu.com](https://www.dacs-edu.com/login) -->
 
 技术栈 python + Redis + rabbitMQ + 阿里云(OSS + CDN + SLB + RDS-Mysql) + grpc + golang
 
@@ -57,7 +58,8 @@ Email: zxcvf6@outlook.com
 ​    前台系统通过微信公众号跳转H5，可查看孩子历次课堂的亮点照片、视频及评价， 提供给家长正反馈。
 ​    后台系统提供给培训学校以及机构使用的后台系统。功能大致为为机构和校区提供包含合同签约、统帐、营销活动、排课、教师管理等功能。在其中负责数据库水平、垂直拆分、工具类编写、代码优化、框架搭建、权限系统优化等功能，以及整体项目质量、研发进度把控。
 
-**obbycode** [https://online.obbycode.com](https://online.obbycode.com/)                                                         后端开发工程师
+**obbycode**                                                                                                                    后端开发工程师
+<!-- [https://online.obbycode.com](https://online.obbycode.com/) -->
 
 技术栈 Python-Django + Redis + rabbitMQ + 阿里云(OSS + CDN + SLB + RDS-Mysql) + grpc
 
